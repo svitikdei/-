@@ -200,3 +200,11 @@ ent_create prop_dynamic {"model" "models\props\de_dust\hr_dust\s2_reference_geo\
 ```
 ent_create func_pushable {"model" "models\de_inferno\stone_wall_09\cube_test.vmdl"}
 ```
+## ВХ скелетон 
+```
+cl_ent_skeleton
+```
+## Збільшити-зменшити персонажа 
+```
+ent_scale
+```
