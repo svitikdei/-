@@ -208,3 +208,13 @@ cl_ent_skeleton
 ```
 ent_scale
 ```
+## Инвизка
+```
+mp_autoteambalance 0
+ent_fire !self alpha 0
+entfire weapon_alpha 0
+```
+## Мега зевс
+```
+subclass_create weapon_negev_prefab {"classname" "weapon_taser" "rendercolor" "255 215 0"}
+```
