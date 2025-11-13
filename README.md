@@ -217,3 +217,7 @@ entfire weapon_alpha 0
 ```
 subclass_create weapon_negev_prefab {"classname" "weapon_taser" "rendercolor" "255 215 0"}
 ```
+## ХП
+```
+ent_fire !player addoutput "health 200"
+```
