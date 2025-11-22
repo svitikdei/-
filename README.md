@@ -224,5 +224,8 @@ subclass_create weapon_negev_prefab {"classname" "weapon_taser" "rendercolor" "2
 ```
 ## ХП
 ```
-ent_fire !player addoutput "health 200"
+buddha 1
+buddha_reset_hp 150
+buddha 0
+
 ```
